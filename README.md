@@ -38,4 +38,4 @@ Please feel free to use and contribute to the development.
 
 ## Contribution
 
-If you have any ideas or suggestions to improve Wechat WeUI, welcome to submit an issue/pull request.
+If you have any ideas or suggestions to improve Wechat WeUI, welcome to submit an issue/pull request.wy
